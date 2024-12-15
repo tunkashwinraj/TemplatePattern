@@ -1,0 +1,14 @@
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\bin\Debug\TemplatePattern_1262774.exe.config
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\bin\Debug\TemplatePattern_1262774.exe
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\bin\Debug\TemplatePattern_1262774.pdb
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\bin\Debug\System.Data.SqlClient.dll
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\bin\Debug\System.Data.SqlClient.xml
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.csproj.AssemblyReference.cache
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.csproj.SuggestedBindingRedirects.cache
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.Form1.resources
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.Properties.Resources.resources
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.csproj.GenerateResource.cache
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.csproj.CoreCompileInputs.cache
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.csproj.CopyComplete
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.exe
+C:\CPSC501\TemplatePattern_1262774\TemplatePattern_1262774\obj\Debug\TemplatePattern_1262774.pdb
